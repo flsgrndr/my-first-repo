@@ -1,0 +1,8 @@
+body {
+    background-color: slateblue;
+}
+img {
+    display: block;
+    width: 50%;
+    margin: auto;
+}
